@@ -1,3 +1,4 @@
+1.7	N	R	17-Mar-2021	Fixed parsing bug with issue titles and added caching to github preview requests.
 1.6	N	R	07-Mar-2021	New overlay for displaying information about an issue when selected\nThe new overlay shows the issue text, issue owner, an example of the vote command, and has a marked button for opening Github.
 1.5	I	R	05-Mar-2021	Corrected displayed values, and included new field for total patreon contribution vote weight.\nTemporary UI changes to help display new values.
 1.4	I	R	01-Mar-2021	Temporary workaround for breaking changes in Neos' JSON API.\nAdded automatic update notifier to help with version fragmentation.
